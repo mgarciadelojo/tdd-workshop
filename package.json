@@ -1,0 +1,14 @@
+{
+  "name": "tdd-workshop",
+  "version": "1.0.0",
+  "description": "TDD Workshop for Dragon Team",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mgarciadelojo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
