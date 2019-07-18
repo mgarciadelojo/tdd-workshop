@@ -27,7 +27,9 @@ Content:
 
 ## Red / Green / Refactor 
 
-<img src="http://www.barrygordon.co.uk/rediscovering-test-driven-development/img/red-green-refactor.png" alt="" width="300" />
+<p align="center">
+    <img src="http://www.barrygordon.co.uk/rediscovering-test-driven-development/img/red-green-refactor.png" alt="" width="300" align />
+</p>
 
 **RED: Write a failing test.**
 
