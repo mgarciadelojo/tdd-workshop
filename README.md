@@ -44,7 +44,3 @@ Write only the bare minimum code required to make the failing test pass while en
 **REFACTOR: Refactor the code you wrote.**
 
 Is there any chance to make your code simpler? Can some tidy ups be made?
-
-## Roman Numerals
-
-Go to `roman-to-decimal` folder and check the README to proceed with the exercise :)

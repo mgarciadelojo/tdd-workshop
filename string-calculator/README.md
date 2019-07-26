@@ -1,4 +1,4 @@
-# RomanToDecimal
+# StringCalculator
 
 Content:
 *   [Problem description](#problem-description)
