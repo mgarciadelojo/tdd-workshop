@@ -4,7 +4,7 @@
   "description": "TDD Workshop for Dragon Team",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "author": "mgarciadelojo",
   "license": "ISC",
