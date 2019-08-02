@@ -1,6 +1,6 @@
 # TDD Workshop
 
-Please clone the repo and complete the exercise working in pairs!
+Clone the repo and complete the exercise working in pairs!
 
 Content:
 *   [What is TDD?](#what-is-tdd)
