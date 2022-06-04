@@ -2,13 +2,12 @@
   "name": "tdd-workshop",
   "version": "1.0.0",
   "description": "TDD Workshop for Dragon Team",
-  "main": "index.js",
   "scripts": {
     "test": "jest --watch"
   },
   "author": "mgarciadelojo",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^28.1.0"
   }
 }
